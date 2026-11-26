@@ -1,12 +1,11 @@
 # 找书神器 · BookFinder
+[English](README.en.md)
 
 面向阅星瞳 X4 Pro 的 **Z-Library 第三方客户端**：在阅读器上检测服务器、登录自己的 Z-Library 账号、搜索书籍、查看详情并下载 EPUB/TXT，下载后可调用系统阅读器打开。界面适配墨水屏，支持触控和实体按键。当前版本为 XTApp 构建 **0031**。
 
 本项目不是 Z-Library 官方应用，不提供电子书文件或共享账号。
 
 ![商店封面](store-assets/cover-1200x675.png)
-
-[English](README.en.md)
 
 ## 功能
 
