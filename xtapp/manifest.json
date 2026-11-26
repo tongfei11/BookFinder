@@ -1,0 +1,24 @@
+{
+  "app_id": "xt-book-download",
+  "display_name": "找书神器",
+  "version": "0031",
+  "api": "2.18",
+  "entry": "index.lua",
+  "display": {
+    "orientation": "portrait"
+  },
+  "permissions": [
+    "net"
+  ],
+  "app_icon_s": "app_icon_s",
+  "app_icon_l": "app_icon_l_2",
+  "author": "tongfei11",
+  "preload_assets": [
+    "app_icon_s",
+    "app_icon_l_2"
+  ],
+  "display_names": {
+    "zh": "找书神器",
+    "en": "BookFinder"
+  }
+}
